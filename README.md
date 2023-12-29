@@ -12,7 +12,7 @@ This is a simple two-player Tic Tac Toe game implemented using HTML, CSS, and Ba
 
 ## Demo
 
-You can try the game live [here](#(https://gh-rishii78.github.io/Tic-Tac-Toe/)).
+You can try the game live [(https://gh-rishii78.github.io/Tic-Tac-Toe/)].
 
 ## Features
 
